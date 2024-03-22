@@ -19,6 +19,11 @@ npm i -g @nestjs/cli
 docker-compose up -d
 ```
 
+5. Documentacion
+```
+http://localhost:3000/api
+```
+
 ## Stack usado
 * MongoDB
 * Nest
